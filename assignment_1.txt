@@ -1,0 +1,15 @@
+Q1. Who developed python?
+-->  Geudo Van Rosam developed python.
+
+Q2. When was the first version of python launched?
+-->   First version of python "python1.0" was released in 1994.
+
+Q3.  Python is a platform independent language - True or False
+-->   True, python is platform independent language.
+
+Q4. How to make single line comment in python?
+-->   Python facilates two types of comment - single line and multiline comment.
+        "#" is used to write single line comment in python.
+
+Q5. Python is statically typed programming language - True or False
+-->   False, python is dynamically typed language.
